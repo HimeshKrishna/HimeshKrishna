@@ -11,6 +11,30 @@
 ---
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="60%">
+
+## 🚀 About Me
+
+* 🎓 B.Tech AIML student who loves building things with AI
+* 🤖 Interested in Machine Learning, Computer Vision, and Generative AI
+* 🚀 Curious about applying AI to Aerospace technologies and many more domains
+* 🛠️ I prefer learning by building real-world projects and experimenting with new ideas
+* 🌱 Currently diving deeper into Deep Learning, Agentic AI, and RAG Systems
+* ⚡ Always exploring, always learning, and always building
+
+📫 Reach me: **[himeshkrishna2006@gmail.com](mailto:himeshkrishna2006@gmail.com)**
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
+
+</td>
+</tr>
+</table>
 
 ## 🚀 About Me
 
@@ -27,8 +51,6 @@
 ---
 
 ## 🛠 Languages and Tools
-
-## 🛠️ Languages and Tools
 
 <p align="left">
 
