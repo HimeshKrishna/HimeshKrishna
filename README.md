@@ -12,6 +12,9 @@
 
 ## 🚀 About Me
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=HimeshKrishna&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+</p>
 * 🎓 B.Tech AIML student who loves building things with AI
 * 🤖 Interested in Machine Learning, Computer Vision, and Generative AI
 * 🚀 Curious about applying AI to Aerospace technologies and many more domains
@@ -166,16 +169,6 @@ Twilio + n8n + OpenRouter
 <a href="https://leetcode.com/u/HimeshKrishna/">
 <img src="https://img.shields.io/badge/LeetCode-HimeshKrishna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </p>
 
