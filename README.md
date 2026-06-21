@@ -10,14 +10,6 @@
 
 ---
 
-<p align="right">
-  <img
-    alt="Coding"
-    width="330"
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  />
-</p>
-
 ## 🚀 About Me
 
 * 🎓 B.Tech AIML student who loves building things with AI
@@ -28,7 +20,6 @@
 * ⚡ Always exploring, always learning, and always building
 
 📫 Reach me: **[himeshkrishna2006@gmail.com](mailto:himeshkrishna2006@gmail.com)**
-
 
 ---
 
