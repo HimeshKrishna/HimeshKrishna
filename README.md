@@ -147,17 +147,24 @@ Machine Learning for Aerospace Applications
 Twilio + n8n + OpenRouter
 
 ---
-
 ## 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://linkedin.com/in/himesh-krishna-9a3232266/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://github.com/HimeshKrishna">
+<img src="https://img.shields.io/badge/GitHub-HimeshKrishna-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:himeshkrishna2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-himeshkrishna2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/himesh-krishna-9a3232266/">
+<img src="https://img.shields.io/badge/LinkedIn-Himesh%20Krishna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/HimeshKrishna/">
+<img src="https://img.shields.io/badge/LeetCode-HimeshKrishna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
