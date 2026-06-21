@@ -110,14 +110,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HimeshKrishna&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -168,16 +160,6 @@ Twilio + n8n + OpenRouter
 <a href="https://leetcode.com/u/HimeshKrishna/">
 <img src="https://img.shields.io/badge/LeetCode-HimeshKrishna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/HimeshKrishna/HimeshKrishna/output/github-contribution-grid-snake.svg">
 
 </p>
 
