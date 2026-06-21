@@ -12,19 +12,18 @@
 
 ## 🚀 About Me
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=HimeshKrishna&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
-</p>
 * 🎓 B.Tech AIML student who loves building things with AI
-* 🤖 Interested in Machine Learning, Computer Vision, and Generative AI
-* 🚀 Curious about applying AI to Aerospace technologies and many more domains
+* 🤖 Interested in Machine Learning, Computer Vision and Generative AI
+* 🚀 Curious about applying AI to Space and Aerospace technologies
 * 🛠️ I prefer learning by building real-world projects and experimenting with new ideas
-* 🌱 Currently diving deeper into Deep Learning, Agentic AI, and RAG Systems
+* 🌱 Currently diving deeper into Deep Learning, Agentic AI and RAG Systems
 * ⚡ Always exploring, always learning, and always building
 
 📫 Reach me: **[himeshkrishna2006@gmail.com](mailto:himeshkrishna2006@gmail.com)**
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HimeshKrishna&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ## 🛠 Languages and Tools
 
@@ -180,14 +179,6 @@ Twilio + n8n + OpenRouter
 
 <img src="https://raw.githubusercontent.com/HimeshKrishna/HimeshKrishna/output/github-contribution-grid-snake.svg">
 
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HimeshKrishna&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
